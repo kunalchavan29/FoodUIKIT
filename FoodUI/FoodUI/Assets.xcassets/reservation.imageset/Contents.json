@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "reservation.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
